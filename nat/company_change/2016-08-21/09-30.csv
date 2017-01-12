@@ -1,0 +1,111 @@
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta http-equiv="Refresh" content="10;url=http://gcis.nat.gov.tw/mainNew; text/html; charset=utf-8">
+        <title>商工行政服務入口網</title>
+        <script type='text/javascript'>
+            <!--
+            setTimeout('countdown()', 1000);
+            function countdown() {
+                var s = document.getElementById('timer');
+                s.innerHTML = s.innerHTML - 1;
+                if (s.innerHTML == 0) {
+                    window.location = 'http://gcis.nat.gov.tw/mainNew/';
+                } else {
+                    setTimeout('countdown()', 1000);
+                }
+            }
+
+            function submitForm(f) {
+                var isError = false;
+                if (isError) {
+                    return false;
+                } else {
+                    return true;
+                }
+            }
+//-->
+        </script>
+        <style type="text/css">
+            <!--
+            /*body {
+                margin-left: 0px;
+                margin-top: 0px;
+            }
+            .red {
+                color: red;
+                font-weight: 100;
+            }
+            .button {
+                background-color: #FFFFCB;
+                border: 1px solid #01519A;
+                color: #343131;
+                font-size:18px;
+                padding-top: 4px;
+            }
+            .FONTA01 {
+                font-family: "新細明體";
+                font-size: 13px;
+                color: #666666;
+                line-height: 20px;
+            }
+            .FONTA02 {
+                font-family: "新細明體";
+                font-size: 15px;
+                color: #000000;
+                font-weight: bold;
+                line-height: 25px;
+            }*/
+            p {
+                font-family: Helvetica, "Heiti TC", "微軟正黑體", "Microsoft Sans Serif", "Microsoft Sans Serif", "Helvetica", "Geneva", "sans-serif";
+                margin: 0;
+                padding: 0;
+            }
+            .messageArea{
+                height: 150px;
+                width: 320px;
+                position: absolute;
+                top: 30%;
+                left: 40%;
+                padding-top:5px;
+                padding-bottom: 5px;
+                line-height: 2em;
+                background-color: #fcffab;
+                font-size: 18px;
+                font-weight: bold;
+                border: 2px solid;
+                border-radius:10px;
+                border-color: orangered;
+                z-index: 9999;
+            }
+            .button11 {
+                background-color: #4a98af;
+                border: 1px solid #01519A;
+                color: #FFF;
+                text-align: center;
+                cursor: pointer;
+                border-radius: 4px;
+                font-size: 18px;
+                font-weight: bold;
+                padding: 5px 10px 5px 10px;
+            }
+            -->
+        </style>
+    </head>
+    <body>
+        <div><br /><br /></div>
+        <div align="center">
+            <form name="form1" method="post" action="http://gcis.nat.gov.tw/mainNew/" onsubmit="return submitForm(this)">
+                <div id="messageA" class="messageArea">
+                    <p align="center"><span style="color:red;font-weight: bold;">網站改版通知</span></p>
+
+                    <p align="center">本網站自105年8月15日起將不再維運，<br>系統將於 <span id='timer'>10</span> 秒後自動前往</p>
+                    <div align="center">
+                        <input type="button" class="button11" value="新官方網站" onclick="javascript:location.href = 'http://gcis.nat.gov.tw/mainNew'" /><!--&nbsp;&nbsp;&nbsp;<input type="button" class="button11" value="取消" id="closeA" />-->
+                    </div>
+                </div>
+            </form>
+        </div>
+    </body>
+</html>
