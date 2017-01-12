@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<EEMResp>
+    <OpenCaseInfoList>
+        <openCaseInfo caseCode="2016070002" caseEndTime="" caseName="105年7月EMIC演練中央專案" caseStartTime="2016/07/04 09:11" cityCode="" disName="風災" eocName="中央災害應變中心" openTier="2"/>
+        <openCaseInfo caseCode="2016070002" caseEndTime="2016/07/05 15:25" caseName="105年7月EMIC演練中央專案" caseStartTime="2016/07/05 08:55" cityCode="65" disName="風災" eocName="新北市災害應變中心" openTier="2"/>
+        <openCaseInfo caseCode="2016070002" caseEndTime="2016/07/06 11:03" caseName="105年7月EMIC演練中央專案" caseStartTime="2016/07/05 08:19" cityCode="10002" disName="風災" eocName="宜蘭縣災害應變中心" openTier="2"/>
+        <openCaseInfo caseCode="2016070002" caseEndTime="2016/07/04 14:29" caseName="0704演練" caseStartTime="2016/07/04 13:43" cityCode="68" disName="水災" eocName="桃園市災害應變中心" openTier="3"/>
+        <openCaseInfo caseCode="2016070002" caseEndTime="2016/07/05 17:51" caseName="105年7月EMIC演練中央專案" caseStartTime="2016/07/05 08:37" cityCode="68" disName="風災" eocName="桃園市災害應變中心" openTier="2"/>
+        <openCaseInfo caseCode="2016070002" caseEndTime="2016/07/05 17:12" caseName="105年0705風災演練" caseStartTime="2016/07/05 15:08" cityCode="68" disName="風災" eocName="桃園市災害應變中心" openTier="2"/>
+        <openCaseInfo caseCode="2016070002" caseEndTime="2016/07/05 14:03" caseName="105年7月EMIC演練中央專案" caseStartTime="2016/07/05 08:28" cityCode="10005" disName="風災" eocName="苗栗縣災害應變中心" openTier="2"/>
+        <openCaseInfo caseCode="2016070002" caseEndTime="2016/07/05 16:26" caseName="105年7月EMIC演練中央專案" caseStartTime="2016/07/05 15:52" cityCode="10005" disName="風災" eocName="苗栗縣災害應變中心" openTier="2"/>
+        <openCaseInfo caseCode="2016070002" caseEndTime="" caseName="105年7月EMIC演練中央專案" caseStartTime="2016/07/12 08:51" cityCode="10007" disName="風災" eocName="彰化縣災害應變中心" openTier="2"/>
+        <openCaseInfo caseCode="2016070002" caseEndTime="2016/07/05 16:05" caseName="105年7月EMIC演練中央專案" caseStartTime="2016/07/05 09:19" cityCode="10008" disName="風災" eocName="南投縣災害應變中心" openTier="2"/>
+        <openCaseInfo caseCode="2016070002" caseEndTime="2016/07/05 15:07" caseName="105年7月EMIC演練中央專案" caseStartTime="2016/07/05 08:54" cityCode="10009" disName="風災" eocName="雲林縣災害應變中心" openTier="2"/>
+        <openCaseInfo caseCode="2016070002" caseEndTime="2016/07/05 16:47" caseName="105年7月EMIC演練中央專案" caseStartTime="2016/07/05 08:20" cityCode="10010" disName="風災" eocName="嘉義縣災害應變中心" openTier="2"/>
+        <openCaseInfo caseCode="2016070002" caseEndTime="2016/07/06 13:40" caseName="105年7月EMIC演練" caseStartTime="2016/07/06 08:54" cityCode="10013" disName="風災" eocName="屏東縣災害應變中心" openTier="1"/>
+        <openCaseInfo caseCode="2016070002" caseEndTime="2016/07/06 14:29" caseName="105年7月EMIC演練中央專案" caseStartTime="2016/07/05 09:00" cityCode="10014" disName="風災" eocName="臺東縣災害應變中心" openTier="2"/>
+        <openCaseInfo caseCode="2016070002" caseEndTime="2016/07/06 09:56" caseName="105年7月EMIC演練中央專案" caseStartTime="2016/07/05 09:51" cityCode="10015" disName="風災" eocName="花蓮縣災害應變中心" openTier="2"/>
+        <openCaseInfo caseCode="2016070002" caseEndTime="2016/07/06 09:26" caseName="105年7月EMIC演練中央專案" caseStartTime="2016/07/05 10:00" cityCode="10016" disName="風災" eocName="澎湖縣災害應變中心" openTier="2"/>
+        <openCaseInfo caseCode="2016070002" caseEndTime="2016/07/06 14:29" caseName="105年7月EMIC演練中央專案" caseStartTime="2016/07/05 08:28" cityCode="10017" disName="風災" eocName="基隆市災害應變中心" openTier="2"/>
+        <openCaseInfo caseCode="2016070002" caseEndTime="2016/07/06 14:29" caseName="105年7月EMIC演練中央專案" caseStartTime="2016/07/05 09:00" cityCode="10018" disName="風災" eocName="新竹市災害應變中心" openTier="1"/>
+        <openCaseInfo caseCode="2016070002" caseEndTime="2016/07/06 13:31" caseName="105年7月EMIC演練中央專案" caseStartTime="2016/07/05 09:54" cityCode="66" disName="風災" eocName="臺中市災害應變中心" openTier="2"/>
+        <openCaseInfo caseCode="2016070002" caseEndTime="2016/07/05 15:26" caseName="105年7月EMIC演練中央專案" caseStartTime="2016/07/05 08:03" cityCode="10020" disName="風災" eocName="嘉義市災害應變中心" openTier="2"/>
+        <openCaseInfo caseCode="2016070002" caseEndTime="2016/07/06 14:29" caseName="105年7月EMIC演練中央專案" caseStartTime="2016/07/05 08:39" cityCode="67" disName="風災" eocName="臺南市災害應變中心" openTier="2"/>
+        <openCaseInfo caseCode="2016070002" caseEndTime="2016/07/05 16:43" caseName="1050705EMIC第一種測試演練" caseStartTime="2016/07/05 08:55" cityCode="63" disName="水災" eocName="臺北市災害應變中心" openTier="3"/>
+        <openCaseInfo caseCode="2016070002" caseEndTime="2016/07/06 07:33" caseName="105年7月EMIC演練中央專案" caseStartTime="2016/07/05 08:00" cityCode="64" disName="風災" eocName="高雄市災害應變中心" openTier="2"/>
+        <openCaseInfo caseCode="2016070002" caseEndTime="2016/07/05 15:31" caseName="105年7月EMIC演練中央專案" caseStartTime="2016/07/05 10:00" cityCode="09020" disName="風災" eocName="金門縣災害應變中心" openTier="2"/>
+        <openCaseInfo caseCode="2016070002" caseEndTime="" caseName="105年7月EMIC演練中央專案" caseStartTime="2016/07/12 09:29" cityCode="09007" disName="風災" eocName="連江縣災害應變中心" openTier="2"/>
+    </OpenCaseInfoList>
+    <resultCode>S</resultCode>
+    <resultText>SUCCESS</resultText>
+</EEMResp>

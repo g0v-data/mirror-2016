@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<EEMResp>
+    <OpenCaseInfoList>
+        <openCaseInfo caseCode="2016050005" caseEndTime="" caseName="105年5月EMIC演練中央專案" caseStartTime="2016/05/06 08:15" cityCode="" disName="風災" eocName="中央災害應變中心" openTier="2"/>
+        <openCaseInfo caseCode="2016050005" caseEndTime="2016/05/06 09:41" caseName="105年5月EMIC演練中央專案" caseStartTime="2016/05/06 09:33" cityCode="10002" disName="風災" eocName="宜蘭縣災害應變中心" openTier="2"/>
+        <openCaseInfo caseCode="2016050005" caseEndTime="" caseName="105年5月EMIC演練中央專案" caseStartTime="2016/05/06 08:24" cityCode="10004" disName="風災" eocName="新竹縣災害應變中心" openTier="1"/>
+    </OpenCaseInfoList>
+    <resultCode>S</resultCode>
+    <resultText>SUCCESS</resultText>
+</EEMResp>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<EEMResp>
+    <OpenCaseInfoList>
+        <openCaseInfo caseCode="2016030015" caseEndTime="" caseName="0316震災" caseStartTime="2016/03/16 08:42" cityCode="" disName="震災" eocName="中央災害應變中心" openTier="1"/>
+    </OpenCaseInfoList>
+    <resultCode>S</resultCode>
+    <resultText>SUCCESS</resultText>
+</EEMResp>

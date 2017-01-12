@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<EEMResp>
+    <OpenCaseInfoList>
+        <openCaseInfo caseCode="2016060095" caseEndTime="" caseName="105年6月EMIC演練中央專案" caseStartTime="2016/06/20 10:14" cityCode="" disName="風災" eocName="中央災害應變中心" openTier="3"/>
+        <openCaseInfo caseCode="2016060095" caseEndTime="2016/06/20 16:49" caseName="彰化縣自行預演" caseStartTime="2016/06/20 12:54" cityCode="10007" disName="風災" eocName="彰化縣災害應變中心" openTier="2"/>
+    </OpenCaseInfoList>
+    <resultCode>S</resultCode>
+    <resultText>SUCCESS</resultText>
+</EEMResp>

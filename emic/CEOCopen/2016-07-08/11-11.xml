@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<EEMResp>
+    <OpenCaseInfoList>
+        <openCaseInfo caseCode="2016070013" caseEndTime="" caseName="尼伯特颱風" caseStartTime="2016/07/06 14:30" cityCode="" disName="風災" eocName="中央災害應變中心" openTier="1"/>
+        <openCaseInfo caseCode="2016070013" caseEndTime="" caseName="尼伯特颱風新北市災害應變中心" caseStartTime="2016/07/06 20:30" cityCode="65" disName="風災" eocName="新北市災害應變中心" openTier="1"/>
+        <openCaseInfo caseCode="2016070013" caseEndTime="2016/07/06 15:07" caseName="尼伯特颱風" caseStartTime="2016/07/06 15:04" cityCode="10002" disName="風災" eocName="宜蘭縣災害應變中心" openTier="2"/>
+        <openCaseInfo caseCode="2016070013" caseEndTime="" caseName="尼伯特颱風" caseStartTime="2016/07/06 14:30" cityCode="10002" disName="風災" eocName="宜蘭縣災害應變中心" openTier="1"/>
+        <openCaseInfo caseCode="2016070013" caseEndTime="" caseName="尼伯特颱風" caseStartTime="2016/07/06 14:30" cityCode="68" disName="風災" eocName="桃園市災害應變中心" openTier="1"/>
+        <openCaseInfo caseCode="2016070013" caseEndTime="" caseName="尼伯特颱風災害應變中心" caseStartTime="2016/07/06 17:07" cityCode="10004" disName="風災" eocName="新竹縣災害應變中心" openTier="3"/>
+        <openCaseInfo caseCode="2016070013" caseEndTime="" caseName="尼伯特颱風" caseStartTime="2016/07/06 16:38" cityCode="10005" disName="風災" eocName="苗栗縣災害應變中心" openTier="2"/>
+        <openCaseInfo caseCode="2016070013" caseEndTime="" caseName="尼伯特颱風" caseStartTime="2016/07/06 21:00" cityCode="10007" disName="風災" eocName="彰化縣災害應變中心" openTier="1"/>
+        <openCaseInfo caseCode="2016070013" caseEndTime="" caseName="尼伯特颱風" caseStartTime="2016/07/06 22:00" cityCode="10008" disName="風災" eocName="南投縣災害應變中心" openTier="1"/>
+        <openCaseInfo caseCode="2016070013" caseEndTime="" caseName="尼伯特颱風" caseStartTime="2016/07/06 22:00" cityCode="10009" disName="風災" eocName="雲林縣災害應變中心" openTier="1"/>
+        <openCaseInfo caseCode="2016070013" caseEndTime="" caseName="尼伯特颱風" caseStartTime="2016/07/07 09:00" cityCode="10010" disName="風災" eocName="嘉義縣災害應變中心" openTier="1"/>
+        <openCaseInfo caseCode="2016070013" caseEndTime="" caseName="尼伯特颱風" caseStartTime="2016/07/07 08:00" cityCode="10013" disName="風災" eocName="屏東縣災害應變中心" openTier="1"/>
+        <openCaseInfo caseCode="2016070013" caseEndTime="" caseName="尼伯特颱風" caseStartTime="2016/07/06 20:30" cityCode="10014" disName="風災" eocName="臺東縣災害應變中心" openTier="1"/>
+        <openCaseInfo caseCode="2016070013" caseEndTime="" caseName="尼伯特颱風" caseStartTime="2016/07/06 15:34" cityCode="10015" disName="風災" eocName="花蓮縣災害應變中心" openTier="1"/>
+        <openCaseInfo caseCode="2016070013" caseEndTime="" caseName="0706尼伯特颱風" caseStartTime="2016/07/06 14:30" cityCode="10016" disName="風災" eocName="澎湖縣災害應變中心" openTier="1"/>
+        <openCaseInfo caseCode="2016070013" caseEndTime="" caseName="尼伯特颱風" caseStartTime="2016/07/06 14:30" cityCode="10017" disName="風災" eocName="基隆市災害應變中心" openTier="2"/>
+        <openCaseInfo caseCode="2016070013" caseEndTime="" caseName="尼伯特颱風" caseStartTime="2016/07/06 14:30" cityCode="10018" disName="風災" eocName="新竹市災害應變中心" openTier="1"/>
+        <openCaseInfo caseCode="2016070013" caseEndTime="" caseName="尼伯特颱風" caseStartTime="2016/07/06 14:30" cityCode="66" disName="風災" eocName="臺中市災害應變中心" openTier="1"/>
+        <openCaseInfo caseCode="2016070013" caseEndTime="" caseName="尼伯特颱風" caseStartTime="2016/07/06 14:30" cityCode="10020" disName="風災" eocName="嘉義市災害應變中心" openTier="1"/>
+        <openCaseInfo caseCode="2016070013" caseEndTime="" caseName="尼伯特颱風" caseStartTime="2016/07/06 20:30" cityCode="67" disName="風災" eocName="臺南市災害應變中心" openTier="1"/>
+        <openCaseInfo caseCode="2016070013" caseEndTime="" caseName="尼伯特颱風" caseStartTime="2016/07/06 21:00" cityCode="63" disName="風災" eocName="臺北市災害應變中心" openTier="2"/>
+        <openCaseInfo caseCode="2016070013" caseEndTime="" caseName="尼伯特颱風" caseStartTime="2016/07/07 10:00" cityCode="64" disName="風災" eocName="高雄市災害應變中心" openTier="1"/>
+        <openCaseInfo caseCode="2016070013" caseEndTime="" caseName="尼伯特颱風" caseStartTime="2016/07/07 17:00" cityCode="09020" disName="風災" eocName="金門縣災害應變中心" openTier="1"/>
+        <openCaseInfo caseCode="2016070013" caseEndTime="" caseName="尼伯特颱風" caseStartTime="2016/07/06 17:13" cityCode="09007" disName="風災" eocName="連江縣災害應變中心" openTier="2"/>
+        <openCaseInfo caseCode="2016070013" caseEndTime="" caseName="尼伯特颱風" caseStartTime="2016/07/06 15:00" cityCode="" disName="風災" eocName="基隆港災害應變中心" openTier="1"/>
+        <openCaseInfo caseCode="2016070013" caseEndTime="" caseName="尼伯特颱風" caseStartTime="2016/07/06 14:30" cityCode="" disName="風災" eocName="臺中港災害應變中心" openTier="1"/>
+        <openCaseInfo caseCode="2016070013" caseEndTime="" caseName="尼伯特颱風" caseStartTime="2016/07/07 12:00" cityCode="" disName="風災" eocName="高雄港災害應變中心" openTier="1"/>
+        <openCaseInfo caseCode="2016070013" caseEndTime="" caseName="尼伯特颱風" caseStartTime="2016/07/06 15:30" cityCode="" disName="風災" eocName="花蓮港災害應變中心" openTier="2"/>
+    </OpenCaseInfoList>
+    <resultCode>S</resultCode>
+    <resultText>SUCCESS</resultText>
+</EEMResp>

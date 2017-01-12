@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<EEMResp>
+    <OpenCaseInfoList>
+        <openCaseInfo caseCode="2016080016" caseEndTime="" caseName="105年核安第22號演習" caseStartTime="2016/08/05 18:10" cityCode="" disName="輻射災害" eocName="中央災害應變中心" openTier="1"/>
+        <openCaseInfo caseCode="2016080016" caseEndTime="2016/08/09 09:01" caseName="105年核安第22號演習" caseStartTime="2016/08/09 08:57" cityCode="10004" disName="風災" eocName="新竹縣災害應變中心" openTier="2"/>
+        <openCaseInfo caseCode="2016080016" caseEndTime="2016/08/09 09:16" caseName="105年核安第22號演習" caseStartTime="2016/08/09 09:13" cityCode="10008" disName="風災" eocName="南投縣災害應變中心" openTier="2"/>
+        <openCaseInfo caseCode="2016080016" caseEndTime="" caseName="105年核安第22號演習" caseStartTime="2016/08/09 08:18" cityCode="10013" disName="核能災害" eocName="屏東縣災害應變中心" openTier="1"/>
+        <openCaseInfo caseCode="2016080016" caseEndTime="" caseName="1050809測試" caseStartTime="2016/08/09 16:33" cityCode="09020" disName="風災" eocName="金門縣災害應變中心" openTier="2"/>
+    </OpenCaseInfoList>
+    <resultCode>S</resultCode>
+    <resultText>SUCCESS</resultText>
+</EEMResp>
