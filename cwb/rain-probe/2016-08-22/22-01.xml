@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cwbopendata xmlns="urn:cwb:gov:tw:cwbcommon:0.1">
+  <identifier>26850611-1389-f4e5-96b4-2e2fcc914097</identifier>
+  <sender>weather@cwb.gov.tw</sender>
+  <sent>2016-08-23T05:18:41+08:00</sent>
+  <status>Actual</status>
+  <msgType>Issue</msgType>
+  <scope>Public</scope>
+  <dataid>F-C0032-018</dataid>
+  <source>Weather Forecast Center</source>
+  <dataset>
+    <datasetInfo>
+      <datasetDescription>WeatherAssistant</datasetDescription>
+      <datasetLanguage>zh-TW</datasetLanguage>
+      <issueTime>2016-08-23T05:24:31+08:00</issueTime>
+    </datasetInfo>
+    <location>
+      <locationName>嘉義縣</locationName>
+      <stationId>46748</stationId>
+      <geocode>10010</geocode>
+    </location>
+    <parameterSet>
+      <parameterSetName>天氣小幫手描述</parameterSetName>
+      <parameter>
+        <parameterValue>多雲午後短暫雷陣雨，注意防曬及補充水份</parameterValue>
+      </parameter>
+      <parameter>
+        <parameterValue>昨(22日)嘉義地區早上晴到多雲，午後近山區有短暫雷陣雨發生。嘉義氣象站昨日最高溫34.7度。</parameterValue>
+      </parameter>
+      <parameter>
+        <parameterValue>今(23日)嘉義地區為多雲午後短暫雷陣雨的天氣，濱海及平原區晚上亦有短暫陣雨，山區午後降雨機率50%，請注意雷擊及強陣風。白天氣溫高，感覺悶熱，請注意防曬及補充水份。預測溫度：濱海區27-32度、平原區26-34度、近山區24-33度。</parameterValue>
+      </parameter>
+      <parameter>
+        <parameterValue>東石布袋沿海地區「多雲局部陣雨」，偏西轉東北風，小浪，浪高約1公尺，平均風4級陣風6級以下，從事海上活動請注意安全。</parameterValue>
+      </parameter>
+      <parameter>
+        <parameterValue>阿里山地區「多雲午後短暫雷陣雨」，預測氣溫13-19度。山區民眾請小心瞬間強降雨、雷擊。</parameterValue>
+      </parameter>
+    </parameterSet>
+  </dataset>
+</cwbopendata>

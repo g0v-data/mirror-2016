@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cwbopendata xmlns="urn:cwb:gov:tw:cwbcommon:0.1">
+    <identifier>CWB-Weather_hazards_20160826051001</identifier>
+    <sender>weather@cwb.gov.tw</sender>
+    <sent>2016-08-26T05:10:01+08:00</sent>
+    <status>Actual</status>
+    <scope>Public</scope>
+    <msgType>Update</msgType>
+    
+</cwbopendata>

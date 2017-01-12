@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cwbopendata xmlns="urn:cwb:gov:tw:cwbcommon:0.1">
+  <identifier>45559589-96b1-77cf-5ec6-4f302688d87b</identifier>
+  <sender>weather@cwb.gov.tw</sender>
+  <sent>2016-07-05T07:27:01+08:00</sent>
+  <status>Actual</status>
+  <msgType>Issue</msgType>
+  <scope>Public</scope>
+  <dataid>F-C0032-013</dataid>
+  <source>Weather Forecast Center</source>
+  <dataset>
+    <datasetInfo>
+      <datasetDescription>WeatherAssistant</datasetDescription>
+      <datasetLanguage>zh-TW</datasetLanguage>
+      <issueTime>2016-07-05T07:30:43+08:00</issueTime>
+    </datasetInfo>
+    <location>
+      <locationName>宜蘭縣</locationName>
+      <stationId>46708</stationId>
+      <geocode>10002</geocode>
+    </location>
+    <parameterSet>
+      <parameterSetName>天氣小幫手描述</parameterSetName>
+      <parameter>
+        <parameterValue>白天氣溫偏高，晴時多雲的天氣</parameterValue>
+      </parameter>
+      <parameter>
+        <parameterValue>昨(4)日白天晴朗炎熱，因此午間紫外線指數來到危險級；宜蘭市測得最高溫為33.9度。</parameterValue>
+      </parameter>
+      <parameter>
+        <parameterValue>今(5)日宜蘭地區為晴時多雲的天氣，降雨機率10%。氣溫方面，白天氣溫偏高，預測平地氣溫約26~34度，太平山氣溫約15~26度。戶外活動，請多補充水分。</parameterValue>
+      </parameter>
+      <parameter>
+        <parameterValue>在沿岸及海上風浪部份：</parameterValue>
+      </parameter>
+      <parameter>
+        <parameterValue>宜蘭蘇澳沿海預測天氣為多雲局部陣雨或雷雨，風向為偏南轉東南風，風浪為小浪，平均風力4級以下雷雨區陣風8級。</parameterValue>
+      </parameter>
+      <parameter>
+        <parameterValue>海岸邊以蘇澳為例，天氣為晴時多雲，氣溫26~34度，風力在1~3級左右，降雨機率為10%。</parameterValue>
+      </parameter>
+    </parameterSet>
+  </dataset>
+</cwbopendata>

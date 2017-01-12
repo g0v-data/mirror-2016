@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cwbopendata xmlns="urn:cwb:gov:tw:cwbcommon:0.1"><identifier>1af8abcf-fce2-5285-b15c-4cb64c04c258</identifier><sender>weather@cwb.gov.tw</sender><sent>2016-12-25T16:19:10+08:00</sent><status>Actual</status><msgType>Issue</msgType><dataid>C0035-007</dataid><dataset><resource><resourceDesc>一週天氣預測圖(第1天)</resourceDesc><mimeType>image/jpeg</mimeType><uri>http://opendata.cwb.gov.tw/opendata/MFC/F-C0035-007.jpg</uri></resource></dataset></cwbopendata>

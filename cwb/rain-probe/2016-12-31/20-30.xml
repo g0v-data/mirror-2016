@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<cwbopendata xmlns="urn:cwb:gov:tw:cwbcommon:0.1">
+  <identifier>CWB-EQ105000-2016-1231-165032</identifier>
+  <sender>CWB_SC@scman.cwb.gov.tw</sender>
+  <sent>2016-12-31T16:54:15+08:00</sent>
+  <status>Actual</status>
+  <msgType>Issue</msgType>
+  <source>CWB</source>
+  <scope>Public</scope>
+  <dataset>
+    <datasetInfo>
+      <datasetDescription>地震報告</datasetDescription>
+      <datasetLanguage>zh-TW</datasetLanguage>
+      <issueTime>2016-12-31T16:54:15+08:00</issueTime>
+      <validTime><endTime>2017-01-01T00:54:15+08:00</endTime></validTime>
+    </datasetInfo>
+    <earthquake>
+      <reportType>地震報告</reportType>
+      <earthquakeNo>105000</earthquakeNo>
+      <reportContent>12/31-16:50臺灣東部海域發生規模3.9有感地震，最大震度臺東縣成功2級。</reportContent>
+      <reportColor>綠色</reportColor>
+      <web>http://scweb.cwb.gov.tw/GraphicContent.aspx?ItemId=49&amp;fileString=2016123116503239</web>
+      <reportImageURI>http://scweb.cwb.gov.tw/webdata/OLDEQ/201612/2016123116503239.gif</reportImageURI>
+      <earthquakeInfo>
+        <originTime>2016-12-31T16:50:32+08:00</originTime>
+        <epicenter>
+          <epicenterLon unit="度">121.58</epicenterLon>
+          <epicenterLat unit="度">23.01</epicenterLat>
+          <location>臺東縣政府東偏北方  52.8  公里 (位於臺灣東部海域)</location>
+        </epicenter>
+        <depth unit="公里">13.6</depth>
+        <magnitude>
+          <magnitudeType>芮氏規模</magnitudeType>
+          <magnitudeValue>3.9</magnitudeValue>
+        </magnitude>
+        <source>中央氣象局</source>
+      </earthquakeInfo>
+      <intensity>
+        <shakingArea>
+          <areaDesc>臺東縣地區</areaDesc>
+          <areaName>臺東縣</areaName>
+          <areaIntensity unit="級">2</areaIntensity>
+          <infoStatus>observe</infoStatus>
+          <eqStation>
+            <stationName>成功</stationName>
+            <stationCode>CHK</stationCode>
+            <stationLon unit="度">121.37</stationLon>
+            <stationLat unit="度">23.10</stationLat>
+            <distance unit="公里">23.53</distance>
+            <azimuth unit="度">113.54</azimuth>
+            <stationIntensity unit="級">2</stationIntensity>
+            <pga unit="gal">
+              <vComponent>1.20</vComponent>
+              <nsComponent>2.09</nsComponent>
+              <ewComponent>3.77</ewComponent>
+            </pga>
+            <infoStatus>observe</infoStatus>
+          </eqStation>
+          <eqStation>
+            <stationName>東河</stationName>
+            <stationCode>EDH</stationCode>
+            <stationLon unit="度">121.30</stationLon>
+            <stationLat unit="度">22.97</stationLat>
+            <distance unit="公里">28.92</distance>
+            <azimuth unit="度">80.88</azimuth>
+            <stationIntensity unit="級">2</stationIntensity>
+            <pga unit="gal">
+              <vComponent>1.67</vComponent>
+              <nsComponent>3.83</nsComponent>
+              <ewComponent>3.41</ewComponent>
+            </pga>
+            <infoStatus>observe</infoStatus>
+          </eqStation>
+          <eqStation>
+            <stationName>長濱</stationName>
+            <stationCode>ECB</stationCode>
+            <stationLon unit="度">121.45</stationLon>
+            <stationLat unit="度">23.32</stationLat>
+            <distance unit="公里">36.26</distance>
+            <azimuth unit="度">158.10</azimuth>
+            <stationIntensity unit="級">1</stationIntensity>
+            <pga unit="gal">
+              <vComponent>0.60</vComponent>
+              <nsComponent>1.26</nsComponent>
+              <ewComponent>1.14</ewComponent>
+            </pga>
+            <infoStatus>observe</infoStatus>
+          </eqStation>
+        </shakingArea>
+        <shakingArea>
+          <areaDesc>最大震度2級地區</areaDesc>
+          <areaName>臺東縣</areaName>
+          <areaIntensity unit="級">2</areaIntensity>
+        </shakingArea>
+      </intensity>
+      <reportRemark>本報告係中央氣象局地震觀測網即時地震資料地震速報之結果。</reportRemark>
+    </earthquake>
+  </dataset>
+</cwbopendata>

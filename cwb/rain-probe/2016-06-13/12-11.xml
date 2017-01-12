@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cwbopendata xmlns="urn:cwb:gov:tw:cwbcommon:0.1">
+  <identifier>94c8b848-e0a5-6d74-94ed-d728091ece70</identifier>
+  <sender>weather@cwb.gov.tw</sender>
+  <sent>2016-06-13T17:07:47+08:00</sent>
+  <status>Actual</status>
+  <msgType>Issue</msgType>
+  <scope>Public</scope>
+  <dataid>F-C0032-022</dataid>
+  <source>Weather Forecast Center</source>
+  <dataset>
+    <datasetInfo>
+      <datasetDescription>WeatherAssistant</datasetDescription>
+      <datasetLanguage>zh-TW</datasetLanguage>
+      <issueTime>2016-06-13T17:10:11+08:00</issueTime>
+    </datasetInfo>
+    <location>
+      <locationName>桃園市</locationName>
+      <stationId>46705</stationId>
+      <geocode>68</geocode>
+    </location>
+    <parameterSet>
+      <parameterSetName>天氣小幫手描述</parameterSetName>
+      <parameter>
+        <parameterValue>明西南氣流影響，陰時多雲短暫陣雨或雷雨</parameterValue>
+      </parameter>
+      <parameter>
+        <parameterValue>今天(13日)桃園市陰時多雲，午前各地區均有降雨，各地平均溫度約22至33度。</parameterValue>
+      </parameter>
+      <parameter>
+        <parameterValue>明天(14日)西南氣流影響，桃園市天氣為陰時多雲短暫陣雨或雷雨，降雨機率70%，白天平均溫度約22至32度，外出請攜帶雨具；沿海空曠地區易有8至9級強陣風出現，活動請注意。</parameterValue>
+      </parameter>
+      <parameter>
+        <parameterValue>海上風浪方面</parameterValue>
+      </parameter>
+      <parameter>
+        <parameterValue>明天(14日)近海地區為多雲局部陣雨或雷雨，西南風，平均風力7至8級陣風10級，晨轉6至7級雷雨區陣風10級，請注意。</parameterValue>
+      </parameter>
+    </parameterSet>
+  </dataset>
+</cwbopendata>
